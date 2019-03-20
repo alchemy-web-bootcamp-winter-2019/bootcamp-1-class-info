@@ -1,3 +1,5 @@
 # Welcome to Bootcamp 1!
 
-The next three weeks are divided into their own folders with nested daily class folders. Daily classes are comprised of a daily overview and code-cooking scripts.
+The bootcamp is divided into weekly folders with nested daily class folders. Daily classes contain a daily overview document and code-cooking scripts.
+
+
