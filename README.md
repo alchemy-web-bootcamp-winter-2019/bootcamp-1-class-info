@@ -8,9 +8,9 @@ This will include:
 1. The terminal window (command line) 
 1. Using Github and git to manage code
 1. Integrated Development Environment (IDE)
-1. Working with HTML and CSS
 1. Working with JavaScript
-1. Integrating JavaScript with HTML and CSS
+1. Test-Driven Development
+1. Mob-programming environment and teamwork
 
 By the end of this week you'll have leveled up your development skills!
 
