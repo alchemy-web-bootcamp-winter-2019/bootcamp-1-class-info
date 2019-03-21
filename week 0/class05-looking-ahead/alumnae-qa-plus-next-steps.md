@@ -48,11 +48,9 @@ Tuesday and Thursday Study Nights
            ```
     1. Complete Form 1 (and maybe 2) of Js Learner Forms https://github.com/cmstead/jsLearnerForms
         * Quickstart video: https://www.youtube.com/watch?v=6G3PH4vb_gc
-    1. Complete Javascript Koans https://github.com/mrdavidlaing/javascript-koans
-    1. Read MDN, documentation, blog articles
+    1. Read blog articles
         * Always ask: "How can I turn this into a real coding exercise?"
         * Follow along with sample code in own project
-        * Turn reference and docs into code; try all the variations
     1. Go to a meetup - Meet people in the community
         * https://calagator.org/
         * meetup.com
