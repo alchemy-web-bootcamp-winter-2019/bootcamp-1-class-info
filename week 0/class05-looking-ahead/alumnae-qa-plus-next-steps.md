@@ -46,7 +46,7 @@ Tuesday and Thursday Study Nights
                console.log(i);
            }
            ```
-    1. Complete Form 1 (and maybe 2) of Js Learner Forms https://github.com/cmstead/jsLearnerForms
+    1. Complete Forms 1 and 2 of Js Learner Forms https://github.com/cmstead/jsLearnerForms
         * Quickstart video: https://www.youtube.com/watch?v=6G3PH4vb_gc
     1. Read blog articles
         * Always ask: "How can I turn this into a real coding exercise?"
